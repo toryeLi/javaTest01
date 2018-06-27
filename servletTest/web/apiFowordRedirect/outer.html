@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>外部页面</title>
+</head>
+<body>
+外部页面
+<input type="button" onclick="goTo();" value="转发" />
+<script>
+    var goTo = function() {
+        location.href = '/inner';
+    }
+</script>
+</body>
+</html>
