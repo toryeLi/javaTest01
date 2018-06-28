@@ -1,0 +1,62 @@
+zencoding-输入左边缩写，按下tab键就ok啦（在html里的快捷键）
+
+html:5    html5结构
+
+link:css   引入css
+
+script:src  引入js
+
+script     html中插入js
+
+ul+     ul及一个li
+
+a:link  <a href=”http://”></a>
+
+a:mail   <a href=”mailto:“></a>
+
+form:get   get表单
+
+input:hidden   hidden输入框
+div#name  id:name
+div.name  class:name
+
+div.one.two   class:one,two
+
+head>link:css   head加link
+
+p+p  两个p
+
+p*3  3个p
+
+ul>li.item$*6    创建ul下有个li同时class分别为item1，item2.。。
+
+pos   postion,组合可用pos:s|a|r|f
+
+t   top,组合a auto
+
+r   right,组合 a
+
+l   left
+
+b   bottom
+
+z   z-index
+
+fl   float
+
+cl   clear
+
+d    display 组合可用n|b|i|ib
+
+v   visibility
+
+ov   overflow
+
+zoo  zoom:1
+
+cp  clip
+
+bx  box-sizing
+
+bxsh:w    -webkit-box-shadow:0 0 0 #000;
+

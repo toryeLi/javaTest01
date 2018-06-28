@@ -40,6 +40,7 @@
 <hr>
 <div id="shopping">
     <form action="" method="">
+        <%=pageContext.setAttribute("","")%>
     <table>
         <tr>
             <th>商品名称</th>

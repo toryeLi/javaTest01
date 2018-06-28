@@ -25,6 +25,7 @@
         <option value="4">爱好4</option>
     </select></p>
     <input type="submit" value="post请求">
+
 </form>
 </body>
 </html>

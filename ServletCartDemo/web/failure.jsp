@@ -24,7 +24,9 @@
 <center>
     <img src="images/add_cart_failure.jpg"/>
     <hr>
-
+<%=pageContext.getAttribute("dd")%>
+    <%=pageContext.setAttribute("sss");%>
+    <%=pageContext.set%>
     <br>
     <br>
     <br>
